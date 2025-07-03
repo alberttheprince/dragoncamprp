@@ -21,7 +21,7 @@ RegisterCommand("dragoncamera", function()
     local pedModel = GetEntityModel(ped)
 
     if not dragonPeds[pedModel] then
-        print("Not using a supported dragon ped.")
+        print("Not using a supported ped, please check the dragon peds list.")
         return
     end
 
