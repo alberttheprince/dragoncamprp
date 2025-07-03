@@ -2,7 +2,9 @@ local dragonCam = nil
 local isDragonCamActive = false
 
 local dragonPeds = { -- Ped list that can use this camera
- -- [`prpwyvern`] = true
+ [`popcornrpwyvern`] = true,
+ [`azuredrakepopcornrp`] = true,
+ [`popcornrpcrimsonwyvern`] = true
 }
 
 -- Configurable values
