@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/650051bc-7d5b-4c82-99ae-f273a882d2d7)
 
 
-# Dargon Camera
+# Dragon Camera
 
 This is a FiveM ped-restricted resource that allows players to use a command to view large peds like giants, [dragons](https://popcornrp-store.tebex.io/category/mythical), and other "large" peds from a different angle.
 
